@@ -1,0 +1,21 @@
+.fonte{
+    font-size: 20px;
+}
+
+.produto{
+    margin: 10px;
+    border: double 5px;
+    box-sizing: border-box;
+    width: 210px;
+    padding: 20px;
+    background-color: #FFDAD6;
+}
+
+p{
+    margin: 10px;
+    border: double 5px;
+    box-sizing: border-box;
+    width: 200px;
+    padding: 20px;
+    background-color: #FFDAD6;
+}
